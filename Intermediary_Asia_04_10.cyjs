@@ -1,0 +1,1095 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Sheet1",
+    "name" : "Sheet1",
+    "SUID" : 101526,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "101609",
+        "shared_name" : "India",
+        "name" : "India",
+        "SUID" : 101609,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 27.56441353288147,
+        "y" : 130.81339472655787
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101607",
+        "shared_name" : "Subhash Kapoor",
+        "name" : "Subhash Kapoor",
+        "SUID" : 101607,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 402.3250707750583,
+        "y" : 199.05549253139915
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101605",
+        "shared_name" : "Rubin-Ladd Foundation",
+        "name" : "Rubin-Ladd Foundation",
+        "SUID" : 101605,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 674.153887085158,
+        "y" : 229.78132951747824
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101603",
+        "shared_name" : "Yale University of Art",
+        "name" : "Yale University of Art",
+        "SUID" : 101603,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 852.6469453045343,
+        "y" : 302.1205872033096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101601",
+        "shared_name" : "Nepal",
+        "name" : "Nepal",
+        "SUID" : 101601,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 17.63529861541163,
+        "y" : -93.18965163642828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101599",
+        "shared_name" : "Sotheby's Auction House",
+        "name" : "Sotheby's Auction House",
+        "SUID" : 101599,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 400.1181452854279,
+        "y" : -126.40198260384884
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101597",
+        "shared_name" : "Dallas Museum of Art",
+        "name" : "Dallas Museum of Art",
+        "SUID" : 101597,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 737.237236498386,
+        "y" : -227.68554966838968
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101595",
+        "shared_name" : "Christie's Auction House",
+        "name" : "Christie's Auction House",
+        "SUID" : 101595,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 261.4328533970927,
+        "y" : 29.484203754670375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101593",
+        "shared_name" : "Alsdorf Collection",
+        "name" : "Alsdorf Collection",
+        "SUID" : 101593,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 526.3571089348801,
+        "y" : 50.56157213867692
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101591",
+        "shared_name" : "The Art Institute of Chicago",
+        "name" : "The Art Institute of Chicago",
+        "SUID" : 101591,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 803.4416739418785,
+        "y" : 7.268345453042297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101589",
+        "shared_name" : "Dr. and Mrs. Edwin F. Ullman",
+        "name" : "Dr. and Mrs. Edwin F. Ullman",
+        "SUID" : 101589,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 502.2464376816625,
+        "y" : -80.02437103261724
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101587",
+        "shared_name" : "Honolulu Museum of Art",
+        "name" : "Honolulu Museum of Art",
+        "SUID" : 101587,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 800.7858663970718,
+        "y" : 369.8847993642425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101585",
+        "shared_name" : "Peabody Essex Museum",
+        "name" : "Peabody Essex Museum",
+        "SUID" : 101585,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 830.978335302048,
+        "y" : 156.65054201786901
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101583",
+        "shared_name" : "Aaron Freedman",
+        "name" : "Aaron Freedman",
+        "SUID" : 101583,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 549.7821855914834,
+        "y" : 319.2152559804531
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101581",
+        "shared_name" : "Toledo Museum of Art",
+        "name" : "Toledo Museum of Art",
+        "SUID" : 101581,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 758.8448487246085,
+        "y" : 81.93113629500928
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101579",
+        "shared_name" : "Thailand",
+        "name" : "Thailand",
+        "SUID" : 101579,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -9.721888753895584,
+        "y" : 408.3599059348718
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101577",
+        "shared_name" : "Galleries (London, Paris)",
+        "name" : "Galleries (London, Paris)",
+        "SUID" : 101577,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 251.9914652875011,
+        "y" : 452.1387953690408
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101575",
+        "shared_name" : "Avery Brundage (European collector)",
+        "name" : "Avery Brundage (European collector)",
+        "SUID" : 101575,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 413.0973990855437,
+        "y" : 347.90592202920305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101573",
+        "shared_name" : "Asian Art Museum, San Francisco",
+        "name" : "Asian Art Museum, San Francisco",
+        "SUID" : 101573,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 754.3635829814341,
+        "y" : 458.516903473636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101571",
+        "shared_name" : "Cambodia",
+        "name" : "Cambodia",
+        "SUID" : 101571,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -28.059047587148232,
+        "y" : 14.84295630814311
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101569",
+        "shared_name" : "Douglas Latchford",
+        "name" : "Douglas Latchford",
+        "SUID" : 101569,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 453.2568809265476,
+        "y" : -23.344206621681447
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101567",
+        "shared_name" : "Denver Museum of Art ",
+        "name" : "Denver Museum of Art ",
+        "SUID" : 101567,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 811.8050299081443,
+        "y" : -104.39378247098128
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101565",
+        "shared_name" : "Bangkok art dealer",
+        "name" : "Bangkok art dealer",
+        "SUID" : 101565,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 120.30074520898827,
+        "y" : 282.42765316845373
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101563",
+        "shared_name" : "New York art dealer",
+        "name" : "New York art dealer",
+        "SUID" : 101563,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 388.8444476384217,
+        "y" : 85.25844798251899
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101561",
+        "shared_name" : "Bowers Museum",
+        "name" : "Bowers Museum",
+        "SUID" : 101561,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 605.7469012415963,
+        "y" : 364.9108633657192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101559",
+        "shared_name" : "Spink & Son Ltd.",
+        "name" : "Spink & Son Ltd.",
+        "SUID" : 101559,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 258.94436031211524,
+        "y" : -84.19673967985324
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101557",
+        "shared_name" : "MET",
+        "name" : "MET",
+        "SUID" : 101557,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 816.1060313980374,
+        "y" : 241.53655395758588
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101555",
+        "shared_name" : "Raymond G. and Milla Louise Handley",
+        "name" : "Raymond G. and Milla Louise Handley",
+        "SUID" : 101555,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 528.0643741142502,
+        "y" : 129.9551348400812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101553",
+        "shared_name" : "New York art dealer",
+        "name" : "New York art dealer",
+        "SUID" : 101553,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 285.2037438681955,
+        "y" : 251.97644475421603
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "101717",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101717,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101715",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101715,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101713",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101713,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101711",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101711,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101709",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101709,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101707",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101707,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101705",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101705,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101703",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101703,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101701",
+        "source" : "101609",
+        "target" : "101607",
+        "shared_name" : "India (interacts with) Subhash Kapoor",
+        "name" : "India (interacts with) Subhash Kapoor",
+        "interaction" : "interacts with",
+        "SUID" : 101701,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101699",
+        "source" : "101607",
+        "target" : "101605",
+        "shared_name" : "Subhash Kapoor (interacts with) Rubin-Ladd Foundation",
+        "name" : "Subhash Kapoor (interacts with) Rubin-Ladd Foundation",
+        "interaction" : "interacts with",
+        "SUID" : 101699,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101697",
+        "source" : "101607",
+        "target" : "101603",
+        "shared_name" : "Subhash Kapoor (interacts with) Yale University of Art",
+        "name" : "Subhash Kapoor (interacts with) Yale University of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101697,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101695",
+        "source" : "101607",
+        "target" : "101587",
+        "shared_name" : "Subhash Kapoor (interacts with) Honolulu Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Honolulu Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101695,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101693",
+        "source" : "101607",
+        "target" : "101585",
+        "shared_name" : "Subhash Kapoor (interacts with) Peabody Essex Museum",
+        "name" : "Subhash Kapoor (interacts with) Peabody Essex Museum",
+        "interaction" : "interacts with",
+        "SUID" : 101693,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101691",
+        "source" : "101607",
+        "target" : "101583",
+        "shared_name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "interaction" : "interacts with",
+        "SUID" : 101691,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101689",
+        "source" : "101607",
+        "target" : "101581",
+        "shared_name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101689,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101687",
+        "source" : "101607",
+        "target" : "101583",
+        "shared_name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "interaction" : "interacts with",
+        "SUID" : 101687,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101685",
+        "source" : "101607",
+        "target" : "101581",
+        "shared_name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101685,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101683",
+        "source" : "101607",
+        "target" : "101583",
+        "shared_name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "interaction" : "interacts with",
+        "SUID" : 101683,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101681",
+        "source" : "101607",
+        "target" : "101581",
+        "shared_name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101681,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101679",
+        "source" : "101607",
+        "target" : "101583",
+        "shared_name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "interaction" : "interacts with",
+        "SUID" : 101679,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101677",
+        "source" : "101607",
+        "target" : "101581",
+        "shared_name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101677,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101675",
+        "source" : "101607",
+        "target" : "101583",
+        "shared_name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "name" : "Subhash Kapoor (interacts with) Aaron Freedman",
+        "interaction" : "interacts with",
+        "SUID" : 101675,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101673",
+        "source" : "101607",
+        "target" : "101581",
+        "shared_name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "name" : "Subhash Kapoor (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101673,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101671",
+        "source" : "101607",
+        "target" : "101567",
+        "shared_name" : "Subhash Kapoor (interacts with) Denver Museum of Art ",
+        "name" : "Subhash Kapoor (interacts with) Denver Museum of Art ",
+        "interaction" : "interacts with",
+        "SUID" : 101671,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101669",
+        "source" : "101605",
+        "target" : "101603",
+        "shared_name" : "Rubin-Ladd Foundation (interacts with) Yale University of Art",
+        "name" : "Rubin-Ladd Foundation (interacts with) Yale University of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101669,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101667",
+        "source" : "101601",
+        "target" : "101599",
+        "shared_name" : "Nepal (interacts with) Sotheby's Auction House",
+        "name" : "Nepal (interacts with) Sotheby's Auction House",
+        "interaction" : "interacts with",
+        "SUID" : 101667,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101665",
+        "source" : "101601",
+        "target" : "101595",
+        "shared_name" : "Nepal (interacts with) Christie's Auction House",
+        "name" : "Nepal (interacts with) Christie's Auction House",
+        "interaction" : "interacts with",
+        "SUID" : 101665,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101663",
+        "source" : "101601",
+        "target" : "101593",
+        "shared_name" : "Nepal (interacts with) Alsdorf Collection",
+        "name" : "Nepal (interacts with) Alsdorf Collection",
+        "interaction" : "interacts with",
+        "SUID" : 101663,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101661",
+        "source" : "101601",
+        "target" : "101589",
+        "shared_name" : "Nepal (interacts with) Dr. and Mrs. Edwin F. Ullman",
+        "name" : "Nepal (interacts with) Dr. and Mrs. Edwin F. Ullman",
+        "interaction" : "interacts with",
+        "SUID" : 101661,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101659",
+        "source" : "101599",
+        "target" : "101597",
+        "shared_name" : "Sotheby's Auction House (interacts with) Dallas Museum of Art",
+        "name" : "Sotheby's Auction House (interacts with) Dallas Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101659,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101657",
+        "source" : "101595",
+        "target" : "101593",
+        "shared_name" : "Christie's Auction House (interacts with) Alsdorf Collection",
+        "name" : "Christie's Auction House (interacts with) Alsdorf Collection",
+        "interaction" : "interacts with",
+        "SUID" : 101657,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101655",
+        "source" : "101593",
+        "target" : "101591",
+        "shared_name" : "Alsdorf Collection (interacts with) The Art Institute of Chicago",
+        "name" : "Alsdorf Collection (interacts with) The Art Institute of Chicago",
+        "interaction" : "interacts with",
+        "SUID" : 101655,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101653",
+        "source" : "101593",
+        "target" : "101591",
+        "shared_name" : "Alsdorf Collection (interacts with) The Art Institute of Chicago",
+        "name" : "Alsdorf Collection (interacts with) The Art Institute of Chicago",
+        "interaction" : "interacts with",
+        "SUID" : 101653,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101651",
+        "source" : "101593",
+        "target" : "101553",
+        "shared_name" : "Alsdorf Collection (interacts with) New York art dealer",
+        "name" : "Alsdorf Collection (interacts with) New York art dealer",
+        "interaction" : "interacts with",
+        "SUID" : 101651,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101649",
+        "source" : "101591",
+        "target" : "101593",
+        "shared_name" : "The Art Institute of Chicago (interacts with) Alsdorf Collection",
+        "name" : "The Art Institute of Chicago (interacts with) Alsdorf Collection",
+        "interaction" : "interacts with",
+        "SUID" : 101649,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101647",
+        "source" : "101583",
+        "target" : "101581",
+        "shared_name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101647,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101645",
+        "source" : "101583",
+        "target" : "101581",
+        "shared_name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101645,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101643",
+        "source" : "101583",
+        "target" : "101581",
+        "shared_name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101643,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101641",
+        "source" : "101583",
+        "target" : "101581",
+        "shared_name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101641,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101639",
+        "source" : "101583",
+        "target" : "101581",
+        "shared_name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "name" : "Aaron Freedman (interacts with) Toledo Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 101639,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101637",
+        "source" : "101579",
+        "target" : "101577",
+        "shared_name" : "Thailand (interacts with) Galleries (London, Paris)",
+        "name" : "Thailand (interacts with) Galleries (London, Paris)",
+        "interaction" : "interacts with",
+        "SUID" : 101637,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101635",
+        "source" : "101579",
+        "target" : "101565",
+        "shared_name" : "Thailand (interacts with) Bangkok art dealer",
+        "name" : "Thailand (interacts with) Bangkok art dealer",
+        "interaction" : "interacts with",
+        "SUID" : 101635,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101633",
+        "source" : "101579",
+        "target" : "101561",
+        "shared_name" : "Thailand (interacts with) Bowers Museum",
+        "name" : "Thailand (interacts with) Bowers Museum",
+        "interaction" : "interacts with",
+        "SUID" : 101633,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101631",
+        "source" : "101577",
+        "target" : "101575",
+        "shared_name" : "Galleries (London, Paris) (interacts with) Avery Brundage (European collector)",
+        "name" : "Galleries (London, Paris) (interacts with) Avery Brundage (European collector)",
+        "interaction" : "interacts with",
+        "SUID" : 101631,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101629",
+        "source" : "101575",
+        "target" : "101573",
+        "shared_name" : "Avery Brundage (European collector) (interacts with) Asian Art Museum, San Francisco",
+        "name" : "Avery Brundage (European collector) (interacts with) Asian Art Museum, San Francisco",
+        "interaction" : "interacts with",
+        "SUID" : 101629,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101627",
+        "source" : "101571",
+        "target" : "101569",
+        "shared_name" : "Cambodia (interacts with) Douglas Latchford",
+        "name" : "Cambodia (interacts with) Douglas Latchford",
+        "interaction" : "interacts with",
+        "SUID" : 101627,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101625",
+        "source" : "101571",
+        "target" : "101559",
+        "shared_name" : "Cambodia (interacts with) Spink & Son Ltd.",
+        "name" : "Cambodia (interacts with) Spink & Son Ltd.",
+        "interaction" : "interacts with",
+        "SUID" : 101625,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101623",
+        "source" : "101569",
+        "target" : "101567",
+        "shared_name" : "Douglas Latchford (interacts with) Denver Museum of Art ",
+        "name" : "Douglas Latchford (interacts with) Denver Museum of Art ",
+        "interaction" : "interacts with",
+        "SUID" : 101623,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101621",
+        "source" : "101569",
+        "target" : "101557",
+        "shared_name" : "Douglas Latchford (interacts with) MET",
+        "name" : "Douglas Latchford (interacts with) MET",
+        "interaction" : "interacts with",
+        "SUID" : 101621,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101619",
+        "source" : "101567",
+        "target" : "101589",
+        "shared_name" : "Denver Museum of Art  (interacts with) Dr. and Mrs. Edwin F. Ullman",
+        "name" : "Denver Museum of Art  (interacts with) Dr. and Mrs. Edwin F. Ullman",
+        "interaction" : "interacts with",
+        "SUID" : 101619,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101617",
+        "source" : "101563",
+        "target" : "101593",
+        "shared_name" : "New York art dealer (interacts with) Alsdorf Collection",
+        "name" : "New York art dealer (interacts with) Alsdorf Collection",
+        "interaction" : "interacts with",
+        "SUID" : 101617,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101615",
+        "source" : "101559",
+        "target" : "101569",
+        "shared_name" : "Spink & Son Ltd. (interacts with) Douglas Latchford",
+        "name" : "Spink & Son Ltd. (interacts with) Douglas Latchford",
+        "interaction" : "interacts with",
+        "SUID" : 101615,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101613",
+        "source" : "101555",
+        "target" : "101557",
+        "shared_name" : "Raymond G. and Milla Louise Handley (interacts with) MET",
+        "name" : "Raymond G. and Milla Louise Handley (interacts with) MET",
+        "interaction" : "interacts with",
+        "SUID" : 101613,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101611",
+        "source" : "101553",
+        "target" : "101565",
+        "shared_name" : "New York art dealer (interacts with) Bangkok art dealer",
+        "name" : "New York art dealer (interacts with) Bangkok art dealer",
+        "interaction" : "interacts with",
+        "SUID" : 101611,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
