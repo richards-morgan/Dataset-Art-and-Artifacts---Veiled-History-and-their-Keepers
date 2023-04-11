@@ -1,0 +1,3006 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Sheet3_5",
+    "name" : "Sheet3_5",
+    "SUID" : 4980,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "5149",
+        "shared_name" : "Zuni Tribe, Zuni Reservation",
+        "name" : "Zuni Tribe, Zuni Reservation",
+        "SUID" : 5149,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 574.9661482941051,
+        "y" : 29.039143634801704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5147",
+        "shared_name" : "Tesuque Pueblo, NM",
+        "name" : "Tesuque Pueblo, NM",
+        "SUID" : 5147,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 393.3624220546863,
+        "y" : 43.93509245071939
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5145",
+        "shared_name" : "Wiyot Tribe, CA",
+        "name" : "Wiyot Tribe, CA",
+        "SUID" : 5145,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 407.8404782857404,
+        "y" : 122.1316115372428
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5143",
+        "shared_name" : "Laguna Pueblo, NM",
+        "name" : "Laguna Pueblo, NM",
+        "SUID" : 5143,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 494.18152186178924,
+        "y" : 153.296160801346
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5141",
+        "shared_name" : "Yurok Tribe, CA",
+        "name" : "Yurok Tribe, CA",
+        "SUID" : 5141,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 576.6265272994633,
+        "y" : 99.54145905308704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5139",
+        "shared_name" : "Hopi Pueblo, AZ",
+        "name" : "Hopi Pueblo, AZ",
+        "SUID" : 5139,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 455.79440147355814,
+        "y" : -5.6321960952414045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5137",
+        "shared_name" : "heirs of Eugen Gutmann",
+        "name" : "heirs of Eugen Gutmann",
+        "SUID" : 5137,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -118.26221142292925,
+        "y" : 313.2723003021135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5135",
+        "shared_name" : "Lebanon",
+        "name" : "Lebanon",
+        "SUID" : 5135,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -49.82112251251485,
+        "y" : 254.90422655476033
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5133",
+        "shared_name" : "heirs of a Munich-based art gallery",
+        "name" : "heirs of a Munich-based art gallery",
+        "SUID" : 5133,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 89.83514061345888,
+        "y" : 217.58510188556534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5131",
+        "shared_name" : "MET",
+        "name" : "MET",
+        "SUID" : 5131,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -98.9179309633613,
+        "y" : 162.57572740509352
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5129",
+        "shared_name" : "Heirs of Federico Gentili di Giuseppe",
+        "name" : "Heirs of Federico Gentili di Giuseppe",
+        "SUID" : 5129,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -219.17891024161077,
+        "y" : 33.4750899568848
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5127",
+        "shared_name" : "Anna Konopka Unrug (private individual), Poland",
+        "name" : "Anna Konopka Unrug (private individual), Poland",
+        "SUID" : 5127,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -137.98454378653264,
+        "y" : 120.05167572653812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5125",
+        "shared_name" : "Heirs of Jakob and Rosa Oppenheimer",
+        "name" : "Heirs of Jakob and Rosa Oppenheimer",
+        "SUID" : 5125,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -81.37825124559296,
+        "y" : 78.54189607406687
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5123",
+        "shared_name" : "Estate of Walter Westfield (& heirs) ",
+        "name" : "Estate of Walter Westfield (& heirs) ",
+        "SUID" : 5123,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 31.983678515296013,
+        "y" : -75.69685561501461
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5121",
+        "shared_name" : "Turkey",
+        "name" : "Turkey",
+        "SUID" : 5121,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 13.830418002313891,
+        "y" : 150.68459983945613
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5119",
+        "shared_name" : "France",
+        "name" : "France",
+        "SUID" : 5119,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 31.329527868740797,
+        "y" : 22.52576248801273
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5117",
+        "shared_name" : "Estate of Emma Budge, Germany",
+        "name" : "Estate of Emma Budge, Germany",
+        "SUID" : 5117,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -64.77378920642198,
+        "y" : -128.0862742621864
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5115",
+        "shared_name" : "Salomon van Ruysdael (heirs of Ferenc Chorin) ",
+        "name" : "Salomon van Ruysdael (heirs of Ferenc Chorin) ",
+        "SUID" : 5115,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -152.35478295159166,
+        "y" : -8.576382693030862
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5113",
+        "shared_name" : "Mali",
+        "name" : "Mali",
+        "SUID" : 5113,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -26.91128279906423,
+        "y" : -180.8892630495954
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5111",
+        "shared_name" : "MFA, Boston",
+        "name" : "MFA, Boston",
+        "SUID" : 5111,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -37.808912456232285,
+        "y" : 8.020965885697164
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5109",
+        "shared_name" : "J. Paul Getty Museum",
+        "name" : "J. Paul Getty Museum",
+        "SUID" : 5109,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -633.4130130584921,
+        "y" : 445.35955455249865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5107",
+        "shared_name" : "Bowers Museum",
+        "name" : "Bowers Museum",
+        "SUID" : 5107,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 301.16009238421583,
+        "y" : 272.2807012684883
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5105",
+        "shared_name" : "Middlebury College Art Museum",
+        "name" : "Middlebury College Art Museum",
+        "SUID" : 5105,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 88.05740332276595,
+        "y" : -145.3637530525311
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5103",
+        "shared_name" : "Hood Art Museum",
+        "name" : "Hood Art Museum",
+        "SUID" : 5103,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 181.72012177698656,
+        "y" : 39.97838492712058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5101",
+        "shared_name" : "Cambodia",
+        "name" : "Cambodia",
+        "SUID" : 5101,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 36.41531939031946,
+        "y" : 67.78574849271742
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5099",
+        "shared_name" : "private individual ",
+        "name" : "private individual ",
+        "SUID" : 5099,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 382.55340237473865,
+        "y" : -210.0211319014566
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5097",
+        "shared_name" : "Poland",
+        "name" : "Poland",
+        "SUID" : 5097,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 373.39762880573056,
+        "y" : -0.07779961013845593
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5095",
+        "shared_name" : "Central Council Tlingit and Haida Indian Tribes of Alaska (CCTHITA) ",
+        "name" : "Central Council Tlingit and Haida Indian Tribes of Alaska (CCTHITA) ",
+        "SUID" : 5095,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 291.22765695283147,
+        "y" : -163.29029681873175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5093",
+        "shared_name" : "Marei von Saher, hier of Jewish art dealer, Jacques Goudstikker",
+        "name" : "Marei von Saher, hier of Jewish art dealer, Jacques Goudstikker",
+        "SUID" : 5093,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 465.90328400236785,
+        "y" : -129.95708385174885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5091",
+        "shared_name" : "Virginia Museum of Fine Arts",
+        "name" : "Virginia Museum of Fine Arts",
+        "SUID" : 5091,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 347.66708515297194,
+        "y" : -75.63874871636374
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5089",
+        "shared_name" : "Czech Republic",
+        "name" : "Czech Republic",
+        "SUID" : 5089,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -174.51925019473865,
+        "y" : -372.9877590673867
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5087",
+        "shared_name" : "Philadelphia Museum of Art",
+        "name" : "Philadelphia Museum of Art",
+        "SUID" : 5087,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -152.07564595043462,
+        "y" : -294.26202937700106
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5085",
+        "shared_name" : "Minneapolis Museum of Art",
+        "name" : "Minneapolis Museum of Art",
+        "SUID" : 5085,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -195.2021546264255,
+        "y" : 364.7722098202367
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5083",
+        "shared_name" : "N/A",
+        "name" : "N/A",
+        "SUID" : 5083,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -225.86352063552627,
+        "y" : 321.6007280190336
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5081",
+        "shared_name" : "Princeton Art Museum",
+        "name" : "Princeton Art Museum",
+        "SUID" : 5081,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -220.33256916061572,
+        "y" : 241.79937381620206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5079",
+        "shared_name" : "Thailand",
+        "name" : "Thailand",
+        "SUID" : 5079,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 241.79727480260382,
+        "y" : 222.17527698120247
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5077",
+        "shared_name" : "Asian Art Museum, San Francisco",
+        "name" : "Asian Art Museum, San Francisco",
+        "SUID" : 5077,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 248.14139227410152,
+        "y" : 169.75131669164557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5075",
+        "shared_name" : "Rhode Island School of Design",
+        "name" : "Rhode Island School of Design",
+        "SUID" : 5075,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 202.94289690180847,
+        "y" : -54.88837338365592
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5073",
+        "shared_name" : "National Gallery of Art",
+        "name" : "National Gallery of Art",
+        "SUID" : 5073,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 151.38138549318907,
+        "y" : -103.7213263976354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5071",
+        "shared_name" : "Nigeria",
+        "name" : "Nigeria",
+        "SUID" : 5071,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 57.25925026594291,
+        "y" : -15.946532526379373
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5069",
+        "shared_name" : "Smithsonian National Museum of African Art",
+        "name" : "Smithsonian National Museum of African Art",
+        "SUID" : 5069,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 158.61055499141412,
+        "y" : 91.8237360022609
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5067",
+        "shared_name" : "Albuquerque Museum",
+        "name" : "Albuquerque Museum",
+        "SUID" : 5067,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 276.77423234384815,
+        "y" : -373.9513486720835
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5065",
+        "shared_name" : "Mexico",
+        "name" : "Mexico",
+        "SUID" : 5065,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 347.29965230774997,
+        "y" : -342.4728156601357
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5063",
+        "shared_name" : "Museum of Fine Art, San Angelo, TX ",
+        "name" : "Museum of Fine Art, San Angelo, TX ",
+        "SUID" : 5063,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 381.9792033928744,
+        "y" : -276.513133785573
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5061",
+        "shared_name" : "Costa Rica",
+        "name" : "Costa Rica",
+        "SUID" : 5061,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 530.9009944539295,
+        "y" : -30.317080346089863
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5059",
+        "shared_name" : "Brooklyn Museum of Art ",
+        "name" : "Brooklyn Museum of Art ",
+        "SUID" : 5059,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 488.2895610791859,
+        "y" : 81.49153774884557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5057",
+        "shared_name" : "Cleveland Museum of Art",
+        "name" : "Cleveland Museum of Art",
+        "SUID" : 5057,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -317.85665814625577,
+        "y" : 59.305043701377706
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5055",
+        "shared_name" : "Germany",
+        "name" : "Germany",
+        "SUID" : 5055,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -207.18562410879827,
+        "y" : -238.3926258786865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5053",
+        "shared_name" : "Venice",
+        "name" : "Venice",
+        "SUID" : 5053,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -130.74112015792338,
+        "y" : -180.49101026525918
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5051",
+        "shared_name" : "Toledo Museum of Art",
+        "name" : "Toledo Museum of Art",
+        "SUID" : 5051,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -202.82902620840764,
+        "y" : -99.3420429929443
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5049",
+        "shared_name" : "Peabody Essex Museum ",
+        "name" : "Peabody Essex Museum ",
+        "SUID" : 5049,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -385.0728739919297,
+        "y" : -131.92915855630798
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5047",
+        "shared_name" : "Honolulu Museum of Art  ",
+        "name" : "Honolulu Museum of Art  ",
+        "SUID" : 5047,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -387.6339744905132,
+        "y" : -18.605827592793524
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5045",
+        "shared_name" : "Greece",
+        "name" : "Greece",
+        "SUID" : 5045,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -333.2587473099344,
+        "y" : 20.300239740033664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5043",
+        "shared_name" : "Egypt",
+        "name" : "Egypt",
+        "SUID" : 5043,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -111.5681132745629,
+        "y" : -67.41826044410497
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5041",
+        "shared_name" : "Museum of the Bible, Washington D.C.",
+        "name" : "Museum of the Bible, Washington D.C.",
+        "SUID" : 5041,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -298.8168441639698,
+        "y" : -174.69720933254604
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5039",
+        "shared_name" : "Peru ",
+        "name" : "Peru ",
+        "SUID" : 5039,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 121.57584276206646,
+        "y" : -207.49952252985167
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5037",
+        "shared_name" : "National Museum of the American Indian, Smithsonian, Washington D.C. ",
+        "name" : "National Museum of the American Indian, Smithsonian, Washington D.C. ",
+        "SUID" : 5037,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 169.83327593705482,
+        "y" : -266.1727140991361
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5035",
+        "shared_name" : "Iraq",
+        "name" : "Iraq",
+        "SUID" : 5035,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -360.64336143576094,
+        "y" : -271.6620787484083
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5033",
+        "shared_name" : "Cornell University",
+        "name" : "Cornell University",
+        "SUID" : 5033,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -367.99554682493056,
+        "y" : -353.50405079312145
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5031",
+        "shared_name" : "Denver Art Museum",
+        "name" : "Denver Art Museum",
+        "SUID" : 5031,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 16.77682108509678,
+        "y" : 427.18443244364425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5029",
+        "shared_name" : "Art Institute of Chicago",
+        "name" : "Art Institute of Chicago",
+        "SUID" : 5029,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 158.06234099933522,
+        "y" : 256.6816611333825
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5027",
+        "shared_name" : "San Antonio Museum of Art",
+        "name" : "San Antonio Museum of Art",
+        "SUID" : 5027,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -155.1449524520624,
+        "y" : 270.64639703346995
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5025",
+        "shared_name" : "Italy",
+        "name" : "Italy",
+        "SUID" : 5025,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -298.8505419351825,
+        "y" : 160.08469594127274
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5023",
+        "shared_name" : "Fordham University",
+        "name" : "Fordham University",
+        "SUID" : 5023,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -168.9876497989868,
+        "y" : 201.07278013503696
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5021",
+        "shared_name" : "Dallas Museum of Art",
+        "name" : "Dallas Museum of Art",
+        "SUID" : 5021,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -57.544251082897084,
+        "y" : 375.8763257467302
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5019",
+        "shared_name" : "Nepal ",
+        "name" : "Nepal ",
+        "SUID" : 5019,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 75.10776087162733,
+        "y" : 290.2470397185315
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5017",
+        "shared_name" : "Rubin Museum of Art",
+        "name" : "Rubin Museum of Art",
+        "SUID" : 5017,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 100.00158872281379,
+        "y" : 380.9063679507792
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5015",
+        "shared_name" : "Burma",
+        "name" : "Burma",
+        "SUID" : 5015,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 66.3355908252633,
+        "y" : -292.41238096313737
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5013",
+        "shared_name" : "India ",
+        "name" : "India ",
+        "SUID" : 5013,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -266.4044334197597,
+        "y" : -34.24531544342586
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5011",
+        "shared_name" : "Yale University of Art ",
+        "name" : "Yale University of Art ",
+        "SUID" : 5011,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -22.97096168292018,
+        "y" : -245.80172591999536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5009",
+        "shared_name" : "Australia",
+        "name" : "Australia",
+        "SUID" : 5009,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 334.52488192299495,
+        "y" : 117.77973480499027
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5007",
+        "shared_name" : "Colgate University",
+        "name" : "Colgate University",
+        "SUID" : 5007,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 372.45021252049605,
+        "y" : 205.04536852107717
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "5465",
+        "source" : "5149",
+        "target" : "5059",
+        "shared_name" : "Zuni Tribe, Zuni Reservation (interacts with) Brooklyn Museum of Art ",
+        "name" : "Zuni Tribe, Zuni Reservation (interacts with) Brooklyn Museum of Art ",
+        "interaction" : "interacts with",
+        "SUID" : 5465,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5463",
+        "source" : "5131",
+        "target" : "5043",
+        "shared_name" : "Metropolitan Museum of Art (interacts with) Egypt",
+        "name" : "Metropolitan Museum of Art (interacts with) Egypt",
+        "interaction" : "interacts with",
+        "SUID" : 5463,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5461",
+        "source" : "5131",
+        "target" : "5025",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5461,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5459",
+        "source" : "5131",
+        "target" : "5071",
+        "shared_name" : "Metropolitan Museum of Art (looted ) Nigeria",
+        "name" : "Metropolitan Museum of Art (looted ) Nigeria",
+        "interaction" : "looted ",
+        "SUID" : 5459,
+        "shared_interaction" : "looted ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5457",
+        "source" : "5131",
+        "target" : "5019",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5457,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5455",
+        "source" : "5131",
+        "target" : "5019",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5455,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5453",
+        "source" : "5131",
+        "target" : "5121",
+        "shared_name" : "Metropolitan Museum of Art (looted) Turkey",
+        "name" : "Metropolitan Museum of Art (looted) Turkey",
+        "interaction" : "looted",
+        "SUID" : 5453,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5451",
+        "source" : "5131",
+        "target" : "5043",
+        "shared_name" : "Metropolitan Museum of Art (illegally trafficked and sold) Egypt",
+        "name" : "Metropolitan Museum of Art (illegally trafficked and sold) Egypt",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5451,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5449",
+        "source" : "5131",
+        "target" : "5025",
+        "shared_name" : "Metropolitan Museum of Art (illegally trafficked and sold) Italy",
+        "name" : "Metropolitan Museum of Art (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5449,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5447",
+        "source" : "5131",
+        "target" : "5101",
+        "shared_name" : "Metropolitan Museum of Art (looted) Cambodia",
+        "name" : "Metropolitan Museum of Art (looted) Cambodia",
+        "interaction" : "looted",
+        "SUID" : 5447,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5445",
+        "source" : "5131",
+        "target" : "5101",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Cambodia",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Cambodia",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5445,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5443",
+        "source" : "5131",
+        "target" : "5083",
+        "shared_name" : "Metropolitan Museum of Art (forced sale) N/A",
+        "name" : "Metropolitan Museum of Art (forced sale) N/A",
+        "interaction" : "forced sale",
+        "SUID" : 5443,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5441",
+        "source" : "5131",
+        "target" : "5137",
+        "shared_name" : "Metropolitan Museum of Art (forced sale) heirs of Eugen Gutmann",
+        "name" : "Metropolitan Museum of Art (forced sale) heirs of Eugen Gutmann",
+        "interaction" : "forced sale",
+        "SUID" : 5441,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5439",
+        "source" : "5131",
+        "target" : "5025",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5439,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5437",
+        "source" : "5131",
+        "target" : "5135",
+        "shared_name" : "Metropolitan Museum of Art (looted) Lebanon",
+        "name" : "Metropolitan Museum of Art (looted) Lebanon",
+        "interaction" : "looted",
+        "SUID" : 5437,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5435",
+        "source" : "5131",
+        "target" : "5025",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5435,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5433",
+        "source" : "5131",
+        "target" : "5013",
+        "shared_name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) India ",
+        "name" : "Metropolitan Museum of Art (illegally excavated, trafficked and sold) India ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5433,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5431",
+        "source" : "5131",
+        "target" : "5133",
+        "shared_name" : "Metropolitan Museum of Art (forced sale) heirs of a Munich-based art gallery",
+        "name" : "Metropolitan Museum of Art (forced sale) heirs of a Munich-based art gallery",
+        "interaction" : "forced sale",
+        "SUID" : 5431,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5429",
+        "source" : "5131",
+        "target" : "5133",
+        "shared_name" : "Metropolitan Museum of Art (forced sale) heirs of a Munich-based art gallery",
+        "name" : "Metropolitan Museum of Art (forced sale) heirs of a Munich-based art gallery",
+        "interaction" : "forced sale",
+        "SUID" : 5429,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5427",
+        "source" : "5111",
+        "target" : "5043",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Egypt",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Egypt",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5427,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5425",
+        "source" : "5111",
+        "target" : "5043",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Egypt",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Egypt",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5425,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5423",
+        "source" : "5111",
+        "target" : "5119",
+        "shared_name" : "MFA Boston, Boston, MA (theft) France",
+        "name" : "MFA Boston, Boston, MA (theft) France",
+        "interaction" : "theft",
+        "SUID" : 5423,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5421",
+        "source" : "5111",
+        "target" : "5129",
+        "shared_name" : "MFA Boston, Boston, MA (forced sale) Heirs of Federico Gentili di Giuseppe",
+        "name" : "MFA Boston, Boston, MA (forced sale) Heirs of Federico Gentili di Giuseppe",
+        "interaction" : "forced sale",
+        "SUID" : 5421,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5419",
+        "source" : "5111",
+        "target" : "5127",
+        "shared_name" : "MFA Boston, Boston, MA (looted) Anna Konopka Unrug (private individual), Poland",
+        "name" : "MFA Boston, Boston, MA (looted) Anna Konopka Unrug (private individual), Poland",
+        "interaction" : "looted",
+        "SUID" : 5419,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5417",
+        "source" : "5111",
+        "target" : "5025",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Italy",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5417,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5415",
+        "source" : "5111",
+        "target" : "5025",
+        "shared_name" : "MFA Boston, Boston, MA (theft) Italy",
+        "name" : "MFA Boston, Boston, MA (theft) Italy",
+        "interaction" : "theft",
+        "SUID" : 5415,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5413",
+        "source" : "5111",
+        "target" : "5125",
+        "shared_name" : "MFA Boston, Boston, MA (forced sale) Heirs of Jakob and Rosa Oppenheimer",
+        "name" : "MFA Boston, Boston, MA (forced sale) Heirs of Jakob and Rosa Oppenheimer",
+        "interaction" : "forced sale",
+        "SUID" : 5413,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5411",
+        "source" : "5111",
+        "target" : "5123",
+        "shared_name" : "MFA Boston, Boston, MA (forced sale) Estate of Walter Westfield (& heirs) ",
+        "name" : "MFA Boston, Boston, MA (forced sale) Estate of Walter Westfield (& heirs) ",
+        "interaction" : "forced sale",
+        "SUID" : 5411,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5409",
+        "source" : "5111",
+        "target" : "5121",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Turkey",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Turkey",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5409,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5407",
+        "source" : "5111",
+        "target" : "5119",
+        "shared_name" : "MFA Boston, Boston, MA (theft) France",
+        "name" : "MFA Boston, Boston, MA (theft) France",
+        "interaction" : "theft",
+        "SUID" : 5407,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5405",
+        "source" : "5111",
+        "target" : "5071",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Nigeria",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Nigeria",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5405,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5403",
+        "source" : "5111",
+        "target" : "5117",
+        "shared_name" : "MFA Boston, Boston, MA (forced sale) Estate of Emma Budge, Germany",
+        "name" : "MFA Boston, Boston, MA (forced sale) Estate of Emma Budge, Germany",
+        "interaction" : "forced sale",
+        "SUID" : 5403,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5401",
+        "source" : "5111",
+        "target" : "5115",
+        "shared_name" : "MFA Boston, Boston, MA (looted) Salomon van Ruysdael (heirs of Ferenc Chorin) ",
+        "name" : "MFA Boston, Boston, MA (looted) Salomon van Ruysdael (heirs of Ferenc Chorin) ",
+        "interaction" : "looted",
+        "SUID" : 5401,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5399",
+        "source" : "5111",
+        "target" : "5025",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Italy",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5399,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5397",
+        "source" : "5111",
+        "target" : "5113",
+        "shared_name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Mali",
+        "name" : "MFA Boston, Boston, MA (illegally excavated, trafficked and sold) Mali",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5397,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5395",
+        "source" : "5111",
+        "target" : "5025",
+        "shared_name" : "MFA Boston, Boston, MA (looted) Italy",
+        "name" : "MFA Boston, Boston, MA (looted) Italy",
+        "interaction" : "looted",
+        "SUID" : 5395,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5393",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (theft) Italy",
+        "name" : "J. Paul Getty Museum (theft) Italy",
+        "interaction" : "theft",
+        "SUID" : 5393,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5391",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (theft) Italy",
+        "name" : "J. Paul Getty Museum (theft) Italy",
+        "interaction" : "theft",
+        "SUID" : 5391,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5389",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "interaction" : "illegally excavated, trafficked, and sold",
+        "SUID" : 5389,
+        "shared_interaction" : "illegally excavated, trafficked, and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5387",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5387,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5385",
+        "source" : "5109",
+        "target" : "5083",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold ) N/A",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold ) N/A",
+        "interaction" : "illegally trafficked and sold ",
+        "SUID" : 5385,
+        "shared_interaction" : "illegally trafficked and sold ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5383",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5383,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5381",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5381,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5379",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5379,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5377",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5377,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5375",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5375,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5373",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5373,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5371",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5371,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5369",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5369,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5367",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5367,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5365",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5365,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5363",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5363,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5361",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5361,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5359",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5359,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5357",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5357,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5355",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5355,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5353",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5353,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5351",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5351,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5349",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5349,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5347",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5347,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5345",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5345,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5343",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5343,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5341",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5341,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5339",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5339,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5337",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5337,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5335",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5335,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5333",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "interaction" : "illegally excavated, trafficked, and sold",
+        "SUID" : 5333,
+        "shared_interaction" : "illegally excavated, trafficked, and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5331",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5331,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5329",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5329,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5327",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5327,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5325",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5325,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5323",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5323,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5321",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5321,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5319",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5319,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5317",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5317,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5315",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5315,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5313",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5313,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5311",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5311,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5309",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5309,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5307",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5307,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5305",
+        "source" : "5109",
+        "target" : "5045",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Greece",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Greece",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5305,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5303",
+        "source" : "5109",
+        "target" : "5045",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold ) Greece",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold ) Greece",
+        "interaction" : "illegally excavated, trafficked and sold ",
+        "SUID" : 5303,
+        "shared_interaction" : "illegally excavated, trafficked and sold ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5301",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (theft) Italy",
+        "name" : "J. Paul Getty Museum (theft) Italy",
+        "interaction" : "theft",
+        "SUID" : 5301,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5299",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5299,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5297",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked, and sold) Italy",
+        "interaction" : "illegally excavated, trafficked, and sold",
+        "SUID" : 5297,
+        "shared_interaction" : "illegally excavated, trafficked, and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5295",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5295,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5293",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5293,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5291",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (N/A) Italy",
+        "name" : "J. Paul Getty Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5291,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5289",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5289,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5287",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5287,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5285",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5285,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5283",
+        "source" : "5109",
+        "target" : "5025",
+        "shared_name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "name" : "J. Paul Getty Museum (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5283,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5281",
+        "source" : "5107",
+        "target" : "5079",
+        "shared_name" : "Bowers Museum (illegally excavated trafficked, and sold ) Thailand",
+        "name" : "Bowers Museum (illegally excavated trafficked, and sold ) Thailand",
+        "interaction" : "illegally excavated trafficked, and sold ",
+        "SUID" : 5281,
+        "shared_interaction" : "illegally excavated trafficked, and sold ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5279",
+        "source" : "5105",
+        "target" : "5071",
+        "shared_name" : "Middlebury College Art Museum (looted) Nigeria",
+        "name" : "Middlebury College Art Museum (looted) Nigeria",
+        "interaction" : "looted",
+        "SUID" : 5279,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5277",
+        "source" : "5103",
+        "target" : "5071",
+        "shared_name" : "Hood Art Museum (looted) Nigeria",
+        "name" : "Hood Art Museum (looted) Nigeria",
+        "interaction" : "looted",
+        "SUID" : 5277,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5275",
+        "source" : "5091",
+        "target" : "5099",
+        "shared_name" : "Virginia Museum of Fine Arts (looted) private individual ",
+        "name" : "Virginia Museum of Fine Arts (looted) private individual ",
+        "interaction" : "looted",
+        "SUID" : 5275,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5273",
+        "source" : "5091",
+        "target" : "5097",
+        "shared_name" : "Virginia Museum of Fine Arts (looted) Poland",
+        "name" : "Virginia Museum of Fine Arts (looted) Poland",
+        "interaction" : "looted",
+        "SUID" : 5273,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5271",
+        "source" : "5091",
+        "target" : "5095",
+        "shared_name" : "Virginia Museum of Fine Arts (N/A) Central Council Tlingit and Haida Indian Tribes of Alaska (CCTHITA) ",
+        "name" : "Virginia Museum of Fine Arts (N/A) Central Council Tlingit and Haida Indian Tribes of Alaska (CCTHITA) ",
+        "interaction" : "N/A",
+        "SUID" : 5271,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5269",
+        "source" : "5091",
+        "target" : "5093",
+        "shared_name" : "Virginia Museum of Fine Arts (looted) Marei von Saher, hier of Jewish art dealer, Jacques Goudstikker",
+        "name" : "Virginia Museum of Fine Arts (looted) Marei von Saher, hier of Jewish art dealer, Jacques Goudstikker",
+        "interaction" : "looted",
+        "SUID" : 5269,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5267",
+        "source" : "5087",
+        "target" : "5055",
+        "shared_name" : "Philadelphia Museum of Art (looted) Germany",
+        "name" : "Philadelphia Museum of Art (looted) Germany",
+        "interaction" : "looted",
+        "SUID" : 5267,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5265",
+        "source" : "5087",
+        "target" : "5089",
+        "shared_name" : "Philadelphia Museum of Art (looted) Czech Republic",
+        "name" : "Philadelphia Museum of Art (looted) Czech Republic",
+        "interaction" : "looted",
+        "SUID" : 5265,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5263",
+        "source" : "5085",
+        "target" : "5083",
+        "shared_name" : "Minneapolis Museum of Art (illegally excavated, trafficked and sold) N/A",
+        "name" : "Minneapolis Museum of Art (illegally excavated, trafficked and sold) N/A",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5263,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5261",
+        "source" : "5081",
+        "target" : "5083",
+        "shared_name" : "Princeton Art Museum (forced sale) N/A",
+        "name" : "Princeton Art Museum (forced sale) N/A",
+        "interaction" : "forced sale",
+        "SUID" : 5261,
+        "shared_interaction" : "forced sale",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5259",
+        "source" : "5081",
+        "target" : "5025",
+        "shared_name" : "Princeton Art Museum (illegally trafficked and sold) Italy",
+        "name" : "Princeton Art Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5259,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5257",
+        "source" : "5081",
+        "target" : "5025",
+        "shared_name" : "Princeton Art Museum (N/A) Italy",
+        "name" : "Princeton Art Museum (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5257,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5255",
+        "source" : "5081",
+        "target" : "5025",
+        "shared_name" : "Princeton Art Museum (illegally trafficked and sold) Italy",
+        "name" : "Princeton Art Museum (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5255,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5253",
+        "source" : "5077",
+        "target" : "5079",
+        "shared_name" : "Asian Art Museum, San Francisco (illegally excavated, trafficked and sold) Thailand",
+        "name" : "Asian Art Museum, San Francisco (illegally excavated, trafficked and sold) Thailand",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5253,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5251",
+        "source" : "5075",
+        "target" : "5071",
+        "shared_name" : "Rhode Island School of Design (looted) Nigeria",
+        "name" : "Rhode Island School of Design (looted) Nigeria",
+        "interaction" : "looted",
+        "SUID" : 5251,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5249",
+        "source" : "5073",
+        "target" : "5071",
+        "shared_name" : "National Gallery of Art (looted) Nigeria",
+        "name" : "National Gallery of Art (looted) Nigeria",
+        "interaction" : "looted",
+        "SUID" : 5249,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5247",
+        "source" : "5069",
+        "target" : "5071",
+        "shared_name" : "Smithsonian National Museum of African Art (looted) Nigeria",
+        "name" : "Smithsonian National Museum of African Art (looted) Nigeria",
+        "interaction" : "looted",
+        "SUID" : 5247,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5245",
+        "source" : "5067",
+        "target" : "5065",
+        "shared_name" : "Albuquerque Museum (N/A) Mexico",
+        "name" : "Albuquerque Museum (N/A) Mexico",
+        "interaction" : "N/A",
+        "SUID" : 5245,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5243",
+        "source" : "5063",
+        "target" : "5065",
+        "shared_name" : "Museum of Fine Art, San Angelo, TX  (theft) Mexico",
+        "name" : "Museum of Fine Art, San Angelo, TX  (theft) Mexico",
+        "interaction" : "theft",
+        "SUID" : 5243,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5241",
+        "source" : "5059",
+        "target" : "5139",
+        "shared_name" : "Brooklyn Museum of Art  (interacts with) Hopi Pueblo, AZ",
+        "name" : "Brooklyn Museum of Art  (interacts with) Hopi Pueblo, AZ",
+        "interaction" : "interacts with",
+        "SUID" : 5241,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5239",
+        "source" : "5059",
+        "target" : "5147",
+        "shared_name" : "Brooklyn Museum of Art  (interacts with) Tesuque Pueblo, NM",
+        "name" : "Brooklyn Museum of Art  (interacts with) Tesuque Pueblo, NM",
+        "interaction" : "interacts with",
+        "SUID" : 5239,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5237",
+        "source" : "5059",
+        "target" : "5143",
+        "shared_name" : "Brooklyn Museum of Art  (interacts with) Laguna Pueblo, NM",
+        "name" : "Brooklyn Museum of Art  (interacts with) Laguna Pueblo, NM",
+        "interaction" : "interacts with",
+        "SUID" : 5237,
+        "shared_interaction" : "interacts with",
+        "selected" : true
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "5235",
+        "source" : "5059",
+        "target" : "5145",
+        "shared_name" : "Brooklyn Museum of Art  (interacts with) Wiyot Tribe, CA",
+        "name" : "Brooklyn Museum of Art  (interacts with) Wiyot Tribe, CA",
+        "interaction" : "interacts with",
+        "SUID" : 5235,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5233",
+        "source" : "5059",
+        "target" : "5141",
+        "shared_name" : "Brooklyn Museum of Art  (interacts with) Yurok Tribe, CA",
+        "name" : "Brooklyn Museum of Art  (interacts with) Yurok Tribe, CA",
+        "interaction" : "interacts with",
+        "SUID" : 5233,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5231",
+        "source" : "5059",
+        "target" : "5061",
+        "shared_name" : "Brooklyn Museum of Art  (not taken illegally (according to laws at the time)  ) Costa Rica",
+        "name" : "Brooklyn Museum of Art  (not taken illegally (according to laws at the time)  ) Costa Rica",
+        "interaction" : "not taken illegally (according to laws at the time)  ",
+        "SUID" : 5231,
+        "shared_interaction" : "not taken illegally (according to laws at the time)  ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5229",
+        "source" : "5059",
+        "target" : "5061",
+        "shared_name" : "Brooklyn Museum of Art  (not taken illegally (according to laws at the time)  ) Costa Rica",
+        "name" : "Brooklyn Museum of Art  (not taken illegally (according to laws at the time)  ) Costa Rica",
+        "interaction" : "not taken illegally (according to laws at the time)  ",
+        "SUID" : 5229,
+        "shared_interaction" : "not taken illegally (according to laws at the time)  ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5227",
+        "source" : "5057",
+        "target" : "5025",
+        "shared_name" : "Cleveland Museum of Art (looted) Italy",
+        "name" : "Cleveland Museum of Art (looted) Italy",
+        "interaction" : "looted",
+        "SUID" : 5227,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5225",
+        "source" : "5057",
+        "target" : "5025",
+        "shared_name" : "Cleveland Museum of Art (illegally trafficked and sold) Italy",
+        "name" : "Cleveland Museum of Art (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5225,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5223",
+        "source" : "5057",
+        "target" : "5025",
+        "shared_name" : "Cleveland Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "name" : "Cleveland Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5223,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5221",
+        "source" : "5051",
+        "target" : "5025",
+        "shared_name" : "Toledo Museum of Art (N/A) Italy",
+        "name" : "Toledo Museum of Art (N/A) Italy",
+        "interaction" : "N/A",
+        "SUID" : 5221,
+        "shared_interaction" : "N/A",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5219",
+        "source" : "5051",
+        "target" : "5055",
+        "shared_name" : "Toledo Museum of Art (looted) Germany",
+        "name" : "Toledo Museum of Art (looted) Germany",
+        "interaction" : "looted",
+        "SUID" : 5219,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5217",
+        "source" : "5051",
+        "target" : "5013",
+        "shared_name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5217,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5215",
+        "source" : "5051",
+        "target" : "5013",
+        "shared_name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5215,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5213",
+        "source" : "5051",
+        "target" : "5013",
+        "shared_name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5213,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5211",
+        "source" : "5051",
+        "target" : "5013",
+        "shared_name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5211,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5209",
+        "source" : "5051",
+        "target" : "5013",
+        "shared_name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "name" : "Toledo Museum of Art (illegally trafficked and sold) India ",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5209,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5207",
+        "source" : "5051",
+        "target" : "5055",
+        "shared_name" : "Toledo Museum of Art (theft) Germany",
+        "name" : "Toledo Museum of Art (theft) Germany",
+        "interaction" : "theft",
+        "SUID" : 5207,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5205",
+        "source" : "5051",
+        "target" : "5025",
+        "shared_name" : "Toledo Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "name" : "Toledo Museum of Art (illegally excavated, trafficked and sold) Italy",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5205,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5203",
+        "source" : "5051",
+        "target" : "5053",
+        "shared_name" : "Toledo Museum of Art (theft) Venice",
+        "name" : "Toledo Museum of Art (theft) Venice",
+        "interaction" : "theft",
+        "SUID" : 5203,
+        "shared_interaction" : "theft",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5201",
+        "source" : "5049",
+        "target" : "5013",
+        "shared_name" : "Peabody Essex Museum  (theft ) India ",
+        "name" : "Peabody Essex Museum  (theft ) India ",
+        "interaction" : "theft ",
+        "SUID" : 5201,
+        "shared_interaction" : "theft ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5199",
+        "source" : "5047",
+        "target" : "5013",
+        "shared_name" : "Honolulu Museum of Art   (illegally excavated, trafficked and sold) India ",
+        "name" : "Honolulu Museum of Art   (illegally excavated, trafficked and sold) India ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5199,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5197",
+        "source" : "5043",
+        "target" : "5131",
+        "shared_name" : "Egypt (interacts with) Metropolitan Museum of Art",
+        "name" : "Egypt (interacts with) Metropolitan Museum of Art",
+        "interaction" : "interacts with",
+        "SUID" : 5197,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5195",
+        "source" : "5041",
+        "target" : "5045",
+        "shared_name" : "Museum of the Bible, Washington D.C. (interacts with) Greece",
+        "name" : "Museum of the Bible, Washington D.C. (interacts with) Greece",
+        "interaction" : "interacts with",
+        "SUID" : 5195,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5193",
+        "source" : "5041",
+        "target" : "5035",
+        "shared_name" : "Museum of the Bible, Washington D.C. (looted) Iraq",
+        "name" : "Museum of the Bible, Washington D.C. (looted) Iraq",
+        "interaction" : "looted",
+        "SUID" : 5193,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5191",
+        "source" : "5041",
+        "target" : "5035",
+        "shared_name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Iraq",
+        "name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Iraq",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5191,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5189",
+        "source" : "5041",
+        "target" : "5035",
+        "shared_name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Iraq",
+        "name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Iraq",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5189,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5187",
+        "source" : "5041",
+        "target" : "5043",
+        "shared_name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Egypt",
+        "name" : "Museum of the Bible, Washington D.C. (illegally excavated, trafficked and sold) Egypt",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5187,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5185",
+        "source" : "5039",
+        "target" : "5011",
+        "shared_name" : "Peru  (interacts with) Yale University of Art ",
+        "name" : "Peru  (interacts with) Yale University of Art ",
+        "interaction" : "interacts with",
+        "SUID" : 5185,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5183",
+        "source" : "5037",
+        "target" : "5039",
+        "shared_name" : "National Museum of the American Indian, Smithsonian, Washington D.C.  (not taken illegally (according to laws at the time)  ) Peru ",
+        "name" : "National Museum of the American Indian, Smithsonian, Washington D.C.  (not taken illegally (according to laws at the time)  ) Peru ",
+        "interaction" : "not taken illegally (according to laws at the time)  ",
+        "SUID" : 5183,
+        "shared_interaction" : "not taken illegally (according to laws at the time)  ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5181",
+        "source" : "5033",
+        "target" : "5035",
+        "shared_name" : "Cornell University (looted) Iraq",
+        "name" : "Cornell University (looted) Iraq",
+        "interaction" : "looted",
+        "SUID" : 5181,
+        "shared_interaction" : "looted",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5179",
+        "source" : "5031",
+        "target" : "5071",
+        "shared_name" : "Denver Art Museum (interacts with) Nigeria",
+        "name" : "Denver Art Museum (interacts with) Nigeria",
+        "interaction" : "interacts with",
+        "SUID" : 5179,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5177",
+        "source" : "5031",
+        "target" : "5101",
+        "shared_name" : "Denver Art Museum (interacts with) Cambodia",
+        "name" : "Denver Art Museum (interacts with) Cambodia",
+        "interaction" : "interacts with",
+        "SUID" : 5177,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5175",
+        "source" : "5031",
+        "target" : "5019",
+        "shared_name" : "Denver Art Museum (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Denver Art Museum (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5175,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5173",
+        "source" : "5029",
+        "target" : "5079",
+        "shared_name" : "Art Institute of Chicago (interacts with) Thailand",
+        "name" : "Art Institute of Chicago (interacts with) Thailand",
+        "interaction" : "interacts with",
+        "SUID" : 5173,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5171",
+        "source" : "5029",
+        "target" : "5019",
+        "shared_name" : "Art Institute of Chicago (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Art Institute of Chicago (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5171,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5169",
+        "source" : "5029",
+        "target" : "5019",
+        "shared_name" : "Art Institute of Chicago (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Art Institute of Chicago (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5169,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5167",
+        "source" : "5027",
+        "target" : "5025",
+        "shared_name" : "San Antonio Museum of Art (illegally trafficked and sold) Italy",
+        "name" : "San Antonio Museum of Art (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5167,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5165",
+        "source" : "5023",
+        "target" : "5025",
+        "shared_name" : "Fordham University (illegally trafficked and sold) Italy",
+        "name" : "Fordham University (illegally trafficked and sold) Italy",
+        "interaction" : "illegally trafficked and sold",
+        "SUID" : 5165,
+        "shared_interaction" : "illegally trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5163",
+        "source" : "5021",
+        "target" : "5019",
+        "shared_name" : "Dallas Museum of Art (illegally excavated, trafficked, and sold) Nepal ",
+        "name" : "Dallas Museum of Art (illegally excavated, trafficked, and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked, and sold",
+        "SUID" : 5163,
+        "shared_interaction" : "illegally excavated, trafficked, and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5161",
+        "source" : "5021",
+        "target" : "5121",
+        "shared_name" : "Dallas Museum of Art (interacts with) Turkey",
+        "name" : "Dallas Museum of Art (interacts with) Turkey",
+        "interaction" : "interacts with",
+        "SUID" : 5161,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5159",
+        "source" : "5017",
+        "target" : "5019",
+        "shared_name" : "Rubin Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "name" : "Rubin Museum of Art (illegally excavated, trafficked and sold) Nepal ",
+        "interaction" : "illegally excavated, trafficked and sold",
+        "SUID" : 5159,
+        "shared_interaction" : "illegally excavated, trafficked and sold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5157",
+        "source" : "5013",
+        "target" : "5031",
+        "shared_name" : "India  (interacts with) Denver Art Museum",
+        "name" : "India  (interacts with) Denver Art Museum",
+        "interaction" : "interacts with",
+        "SUID" : 5157,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5155",
+        "source" : "5011",
+        "target" : "5015",
+        "shared_name" : "Yale University of Art  (illegally excavated trafficked, and sold ) Burma",
+        "name" : "Yale University of Art  (illegally excavated trafficked, and sold ) Burma",
+        "interaction" : "illegally excavated trafficked, and sold ",
+        "SUID" : 5155,
+        "shared_interaction" : "illegally excavated trafficked, and sold ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5153",
+        "source" : "5011",
+        "target" : "5013",
+        "shared_name" : "Yale University of Art  (illegally excavated trafficked, and sold ) India ",
+        "name" : "Yale University of Art  (illegally excavated trafficked, and sold ) India ",
+        "interaction" : "illegally excavated trafficked, and sold ",
+        "SUID" : 5153,
+        "shared_interaction" : "illegally excavated trafficked, and sold ",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5151",
+        "source" : "5007",
+        "target" : "5009",
+        "shared_name" : "Colgate University (interacts with) Australia",
+        "name" : "Colgate University (interacts with) Australia",
+        "interaction" : "interacts with",
+        "SUID" : 5151,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
